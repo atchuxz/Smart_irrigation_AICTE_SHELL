@@ -1,0 +1,2 @@
+# Smart_irrigation_AICTE_SHELL
+AICTE INTERNSHIP CYCLE_2
